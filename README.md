@@ -16,26 +16,29 @@ Este projeto é uma refatoração de um sistema simples de gerenciamento de usu�
 1. Baixe ou clone o repositório:
 
 2. Navegue até a pasta que se encontra o projeto:
-
-```bash
-cd nome-do-repositorio
-```
-
-3. Execute o comando
    ```bash
-   python -m venv venv```
+   cd nome-do-repositorio
+   ```
+
+3. Execute o comando para criar o ambiente virtual
+   ```bash
+   python -m venv venv
+   ```
    
-5. Em seguida o comando
+5. Em seguida o comando para ativar o ambiente virtual
    ```bash
-   venv\Scripts\activate para ativar```
+   venv\Scripts\activate
+   ```
    
 6. Em caso de erro, rode o comando
    ```bash
-   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process```
+   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+   ```
    
 7.instalar as dependencias utilizando PIP
-```bash
-pip install -r requirements.txt```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 8. Para executar a aplicação
  ```bash
