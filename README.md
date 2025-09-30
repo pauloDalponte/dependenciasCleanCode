@@ -19,6 +19,7 @@ Este projeto é uma refatoração de um sistema simples de gerenciamento de usu�
 
 ```bash
 cd nome-do-repositorio
+```
 
 3. Execute o comando
    ```python -m venv venv
