@@ -22,13 +22,13 @@ cd nome-do-repositorio
 ```
 
 3. Execute o comando
-   ```python -m venv venv
+   ```python -m venv venv```
 4. Em seguida o comando
-   ```venv\Scripts\activate para ativar
+   ```venv\Scripts\activate para ativar```
 5. Em caso de erro, rode o comando
-   ```Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+   ```Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process```
 6.instalar as dependencias utilizando PIP
-```pip install -r requirements.txt
+```pip install -r requirements.txt```
 7. Para executar a aplicação
- ```python main.py 
+ ```python main.py ```
 
