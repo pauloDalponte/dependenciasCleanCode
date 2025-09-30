@@ -14,7 +14,12 @@ Este projeto é uma refatoração de um sistema simples de gerenciamento de usu�
 ## 🚀 Como executar
 
 1. Baixe ou clone o repositório:
-2. Navegue até a pasta que se encontra o projeto
+
+2. Navegue até a pasta que se encontra o projeto:
+
+```bash
+cd nome-do-repositorio
+
 3. Execute o comando
    ```python -m venv venv
 4. Em seguida o comando
