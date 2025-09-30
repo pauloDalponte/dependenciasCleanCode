@@ -29,15 +29,15 @@ cd nome-do-repositorio
    ```bash
    venv\Scripts\activate para ativar```
    
-7. Em caso de erro, rode o comando
+6. Em caso de erro, rode o comando
    ```bash
    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process```
    
-6.instalar as dependencias utilizando PIP
+7.instalar as dependencias utilizando PIP
 ```bash
 pip install -r requirements.txt```
 
-9. Para executar a aplicação
+8. Para executar a aplicação
  ```bash
  python main.py ```
 
